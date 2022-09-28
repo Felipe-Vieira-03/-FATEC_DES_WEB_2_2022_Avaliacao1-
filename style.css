@@ -1,0 +1,8 @@
+h1{
+
+}
+body{
+    background: rgb(48,241,63);
+    background: linear-gradient(90deg, rgba(48,241,63,1) 0%, rgba(152,244,147,1) 35%, rgba(80,255,171,1) 61%, rgba(0,212,255,1) 100%);
+
+}
